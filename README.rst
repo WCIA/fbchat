@@ -7,6 +7,8 @@ Facebook Chat (`Messenger <https://www.messenger.com/>`__) for Python. This proj
 
 **No XMPP or API key is needed**. Just use your ID and PASSWORD.
 
+if you have the c compiler problems with install lxml module , try manual install lxml from this site.
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
 
 Installation
 ============
